@@ -15,3 +15,6 @@ vless://f248ecb6-050c-4641-8808-f8b2ee9b734a@cdn-all.xn--b6gac.eu.org:443?securi
 vless://f29c6d40-e612-45b1-9208-a83fbd9884a7@sg-full.privateip.net:2003?security=tls&type=grpc&serviceName=GRPC&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20gRPC%20@V2rayStore
 vless://489ba369-1c84-40d5-8786-e031d31ea173@sg2-full.privateip.net:443?security=tls&type=ws&path=/VLESS&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20WS%20@V2rayStore
 vless://f29c6d40-e612-45b1-9208-a83fbd9884a7@sg-full.privateip.net:443?security=tls&type=ws&path=/VLESS&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20WS%20@V2rayStore
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1anZ2T1NkV1hEbE41d1lhUTh3ZXU0@18.224.247.215:80#Backup%231
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLSVBsZkRiSFcxdVVMWVl3Y21hSFk0@18.224.247.215:80#Backup%232
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDNGJad2VRbG1VSHFXWFB3U09tc0JV@18.224.247.215:80#Backup%233
