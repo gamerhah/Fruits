@@ -18,3 +18,12 @@ vless://f29c6d40-e612-45b1-9208-a83fbd9884a7@sg-full.privateip.net:443?security=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1anZ2T1NkV1hEbE41d1lhUTh3ZXU0@18.224.247.215:80#Backup%231
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLSVBsZkRiSFcxdVVMWVl3Y21hSFk0@18.224.247.215:80#Backup%232
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDNGJad2VRbG1VSHFXWFB3U09tc0JV@18.224.247.215:80#Backup%233
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.16.150.237:443?path=TG%40ZDYZ2&security=tls&encryption=none&host=cfed.tgzdyz2.top&fp=chrome&type=ws&sni=cfed.tgzdyz2.top#%F0%9F%94%92+VL-WS-TLS+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-104.16.150.237%3A443
+vless://f3dc958a-1f2c-4d10-b781-b2deeaabecce@104.18.13.229:2096?path=%2F&security=tls&encryption=none&host=free1.fylink.tech&type=ws&sni=free1.fylink.tech#%F0%9F%94%92+VL-WS-TLS+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-104.18.13.229%3A2096
+vless://f3dc958a-1f2c-4d10-b781-b2deeaabecce@104.18.13.229:8443?path=%2F&security=tls&encryption=none&host=free1.fylink.tech&type=ws&sni=free1.fylink.tech#%F0%9F%94%92+VL-WS-TLS+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-104.18.13.229%3A8443
+vless://f61e2705-1fa7-4202-9724-d8a9e4d63917@132.226.172.147:62001?security=reality&encryption=none&pbk=9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swdist.apple.com#%F0%9F%87%B0%F0%9F%87%B7KR+%7C+%F0%9F%9F%A2+%7C+vless+%7C+%40vless_vmess+%7C+9
+vless://9d290951-46ad-4ed5-8979-258e36995221@in-freevmess.privateip.net:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AE%F0%9F%87%B3+India+0+%40V2rayStore
+
+
+
+
