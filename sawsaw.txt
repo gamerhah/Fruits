@@ -1,4 +1,5 @@
 vless://61ed9ee4-9da6-41c6-92b4-2dc7a368d023@sg2.v2vless.xyz:443?encryption=none&security=tls&sni=sg2.v2vless.xyz&type=ws&host=sg2.v2vless.xyz&path=%2Fvless#sshocean-sawsaw-ws
+vless://f0d138ef-ce03-4b18-9dfd-647699394fe0@sg3.v2vless.xyz:443?encryption=none&security=tls&sni=sg3.v2vless.xyz&type=ws&host=sg3.v2vless.xyz&path=%2Fvless#sshocean-gitgyi-ws
 vless://3ef60719-56c6-4248-b4df-f5579dd0434f@love-u.sawsaw.workers.dev:443?security=tls&sni=love-u.sawsaw.workers.dev&fp=randomized&type=ws&path=/?ed%3D2048&host=love-u.sawsaw.workers.dev&encryption=none#Saw%F0%9F%92%9C
 vless://1c70197a-a09f-4f2a-8436-e493ed843ced@farm.gitmango.workers.dev:443?security=tls&sni=farm.gitmango.workers.dev&fp=randomized&type=ws&path=/?ed%3D2048&host=farm.gitmango.workers.dev&encryption=none#%F0%9F%A5%AD%F0%9F%8C%9F
 vless://f5b7139c-fb81-4f1e-8683-8ebec68770e5@carrot.mgline31.workers.dev:443?security=tls&sni=carrot.mgline31.workers.dev&fp=randomized&type=ws&path=/?ed%3D2048&host=carrot.mgline31.workers.dev&encryption=none#%F0%9F%A5%95%F0%9F%8C%9F
