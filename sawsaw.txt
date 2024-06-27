@@ -1,2 +1,3 @@
 vless://61ed9ee4-9da6-41c6-92b4-2dc7a368d023@sg2.v2vless.xyz:443?encryption=none&security=tls&sni=sg2.v2vless.xyz&type=ws&host=sg2.v2vless.xyz&path=%2Fvless#sshocean-sawsaw-ws
 vless://f0d138ef-ce03-4b18-9dfd-647699394fe0@sg3.v2vless.xyz:443?encryption=none&security=tls&sni=sg3.v2vless.xyz&type=ws&host=sg3.v2vless.xyz&path=%2Fvless#sshocean-gitgyi-ws
+vless://1f22b099-e43f-4dea-b6b1-2f1ff85ff126@sg3.v2vless.xyz:443?encryption=none&security=tls&sni=sg3.v2vless.xyz&type=ws&host=sg3.v2vless.xyz&path=%2Fvless#sshocean-rabgit-ws
